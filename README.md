@@ -26,7 +26,8 @@ Student-led tech initiatives and open-source tools
 📫 Reach Me
 📧 Email: 220010032@iitdh.ac.in
 🔗 LinkedIn: Connect with me
-📂 My recent project: AI Business Assistant using Amazon Bedrock
+
+📂 My recent project: AI Business Assistant using Amazon Bedrock, MCP project 
 
 ⚡ Fun Fact
 I love blending creativity with code — whether it's designing a sleek UI or building a smart agent that understands human prompts.
