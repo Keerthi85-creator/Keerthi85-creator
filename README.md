@@ -1,4 +1,3 @@
-✨ Rewritten GitHub Bio
 👋 Hi, I’m Keerthi M (GitHub: @Keerthi85-creator)
 🎓 B.Tech student at IIT Dharwad
 💡 Passionate about building intelligent, user-friendly web applications
