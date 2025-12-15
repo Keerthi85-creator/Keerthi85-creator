@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Reach Me
-- **Email:** 220010032@iitdh.ac.in  
+- **Email:** keerthi.mubarakpur@gmail.com  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com)
 
 ---
