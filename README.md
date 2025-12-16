@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Keerthi M
-**PORTFOLIO:** [portfolio](https://keerthi85-creator.github.io/keerthi.github.io/)
+**PORTFOLIO: [portfolio](https://keerthi85-creator.github.io/keerthi.github.io/)**  ,
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/keerthi-mubarakpur/)    
 **🎓 B.Tech Student at IIT Dharwad**  
 **💡 Passionate about building intelligent AI-powered applications**
